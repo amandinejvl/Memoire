@@ -1,0 +1,65 @@
+,sent_id,gold_text,gold_label,ocr_text,ocr_label
+0,1,Bow,LOC,Bow,LOC
+1,1,street,LOC,street,LOC
+2,1,James Palmer,PER,James Palmer,PER
+3,1,Samuel Scandland,PER,Samuel Scandland,PER
+4,1,Leon Weiner,PER,Leon Weiner,PER
+5,1,Adolphe Weiner,PER,Adolphe Weiner,PER
+6,1,Daniel Jacoby,PER,Daniel Jacoby,PER
+7,1,Dusant,PER,Dasant,PER
+8,1,Jules Tabak,PER,Jules Tabak,PER
+9,2,Languish,PER,Langrish,PER
+10,3,Tabak,PER,Taliak,PER
+11,3,Belgrave,LOC,Belgrave,LOC
+12,3,Euston,LOC,Eusten,LOC
+13,3,,,Memarch,LOC
+14,5,Palmer,PER,Palmer,PER
+15,7,Dusant,PER,Doeant,PER
+16,8,Palmer,PER,Palmer,PER
+17,9,Tabak,PER,TaNbalc,PER
+18,9,Palmer,PER,Palmer,PER
+19,11,Eleanor Denunzio,PER,Eleanor Denunzio,PER
+20,11,Dusant,PER,Dusant,PER
+21,11,Palmer,PER,Palmer,PER
+22,14,,,Ho,PER
+23,19,Weiner,PER,Weiner,PER
+24,20,Witness,PER,,
+25,20,Waterloo Station,LOC,Wettrino Station,LOC
+26,20,Adolphs Weiner,PER,AdoOlphe WAeiner,PER
+27,21,Waterloo Station,LOC,Waiterloo Station,LOC
+28,22,Dyer’s,ORG,Dyer's Buildings,LOC
+29,22,Buildings,LOC,Dyer's Buildings,LOC
+30,22,Adolphe Weinger,PER,Adolphe Weiner,PER
+31,22,,,C,LOC
+32,23,God,PER,God,PER
+33,24,Castle,LOC,CLstle,PER
+34,24,street,LOC,,
+35,24,Chancery,LOC,,
+36,27,,,Hee,PER
+37,28,Tabak,PER,Tabak,ORG
+38,28,,,MIr,ORG
+39,28,,,Sthen,PER
+40,29,Dyer,ORG,Dyers,LOC
+41,29,s Buildings,LOC,Bnildigi,LOC
+42,30,Jacoby,PER,Jacoby,PER
+43,30,Edgware,LOC,Edgware,LOC
+44,30,road,LOC,,
+45,30,,,Hisll,PER
+46,32,House of Detention,ORG,House of Detention,ORG
+47,33,Aylesbury,LOC,,
+48,33,Clerkenwell,LOC,,
+49,35,Weiner,PER,Wesiner,PER
+50,37,Weiner,PER,Weiner,PER
+51,37,Jacoby,PER,Jacisby,PER
+52,38,Weiner,PER,i NATehier,ORG
+53,38,,,Ho,PER
+54,39,Marble Arch,LOC,Arch,ORG
+55,39,Palmer,PER,PAeher,PER
+56,40,Palmer,PER,,
+57,40,,,Marclh,PER
+58,42,Waterloo,LOC,Waterloo,LOC
+59,45,Jacoby,PER,Jacoby,PER
+60,45,,,Christ,PER
+61,46,,,Toney,PER
+62,47,Weiner,PER,Waeiner,PER
+63,48,,,XrDom,ORG

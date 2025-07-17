@@ -1,0 +1,110 @@
+CER moyen entre les phrases gold et OCR : 0.102
+WER moyen entre les phrases gold et OCR : 0.323
+************************************************************
+Evaluation toutes entités confondues (75 entités gold / 71 entités OCR)
+************************************************************
+__________________________________________________
+Evaluation par simple correspondance
+Précision : 0.845
+Rappel    : 0.800
+F-mesure  : 0.822
+__________________________________________________
+Evaluation par correspondance des textes
+Précision : 0.437
+Rappel    : 0.413
+F-mesure  : 0.425
+__________________________________________________
+Evaluation par correspondance des labels
+Précision : 0.634
+Rappel    : 0.600
+F-mesure  : 0.616
+__________________________________________________
+Evaluation par correspondance des couples (texte, label)
+Précision : 0.360
+Rappel    : 0.413
+F-mesure  : 0.385
+__________________________________________________
+31 entités gold ont une correspondance identique dans l'OCR
+   CER moyen gold/OCR pour les phrases contenant au moins une entité gold ayant une correspondance identique dans l'OCR : 0.073
+   WER moyen gold/OCR pour les phrases contenant au moins une entité gold ayant une correspondance identique dans l'OCR : 0.271
+__________________________________________________
+29 entités gold ont une correspondance différente dans l'OCR
+   Distance de Levenshtein moyenne pour les entités gold ayant une correspondance différente dans l'OCR : 5.034
+   CER moyen gold/OCR pour les phrases contenant au moins une entité gold ayant une correspondance différente dans l'OCR : 0.137
+   WER moyen gold/OCR pour les phrases contenant au moins une entité gold ayant une correspondance différente dans l'OCR : 0.391
+15 entités gold n'ont pas de correspondance dans l'OCR
+   CER moyen gold/OCR pour les phrases contenant au moins une entité gold sans correspondance dans l'OCR : 0.151
+   WER moyen gold/OCR pour les phrases contenant au moins une entité gold sans correspondance dans l'OCR : 0.443
+____________________________________________________________________________________________________
+************************************************************
+Evaluation uniquement sur les personnes (28 entités gold / 31 entités OCR)
+************************************************************
+__________________________________________________
+Evaluation par simple correspondance
+Précision : 0.857
+Rappel    : 0.909
+F-mesure  : 0.882
+__________________________________________________
+Evaluation par correspondance des textes
+Précision : 0.343
+Rappel    : 0.364
+F-mesure  : 0.353
+__________________________________________________
+Evaluation par correspondance des labels
+Précision : 0.677
+Rappel    : 0.750
+F-mesure  : 0.712
+__________________________________________________
+Evaluation par correspondance des couples (texte, label)
+Précision : 0.387
+Rappel    : 0.429
+F-mesure  : 0.407
+__________________________________________________
+12 entités gold PERSON ont une correspondance identique dans l'OCR
+   CER moyen gold/OCR pour les phrases contenant au moins une entité gold PERSON ayant une correspondance identique dans l'OCR : 0.050
+   WER moyen gold/OCR pour les phrases contenant au moins une entité gold PERSON ayant une correspondance identique dans l'OCR : 0.168
+__________________________________________________
+13 entités gold PERSON ont une correspondance différente dans l'OCR
+   Distance de Levenshtein moyenne pour les entités gold PERSON ayant une correspondance différente dans l'OCR : 4.615
+   CER moyen gold/OCR pour les phrases contenant au moins une entité gold PERSON ayant une correspondance différente dans l'OCR : 0.129
+   WER moyen gold/OCR pour les phrases contenant au moins une entité gold PERSON ayant une correspondance différente dans l'OCR : 0.389
+3 entités gold PERSON n'ont pas de correspondance dans l'OCR
+   CER moyen gold/OCR pour les phrases contenant au moins une entité gold PERSON sans correspondance dans l'OCR : 0.100
+   WER moyen gold/OCR pour les phrases contenant au moins une entité gold PERSON sans correspondance dans l'OCR : 0.323
+____________________________________________________________________________________________________
+************************************************************
+Evaluation uniquement sur les dates (11 entités gold / 6 entités OCR)
+************************************************************
+__________________________________________________
+Evaluation par simple correspondance
+Précision : 1.000
+Rappel    : 0.917
+F-mesure  : 0.957
+__________________________________________________
+Evaluation par correspondance des textes
+Précision : 0.364
+Rappel    : 0.333
+F-mesure  : 0.348
+__________________________________________________
+Evaluation par correspondance des labels
+Précision : 0.833
+Rappel    : 0.455
+F-mesure  : 0.588
+__________________________________________________
+Evaluation par correspondance des couples (texte, label)
+Précision : 0.667
+Rappel    : 0.364
+F-mesure  : 0.471
+__________________________________________________
+4 entités gold DATE ont une correspondance identique dans l'OCR
+   CER moyen gold/OCR pour les phrases contenant au moins une entité gold DATE ayant une correspondance identique dans l'OCR : 0.041
+   WER moyen gold/OCR pour les phrases contenant au moins une entité gold DATE ayant une correspondance identique dans l'OCR : 0.158
+__________________________________________________
+6 entités gold DATE ont une correspondance différente dans l'OCR
+   Distance de Levenshtein moyenne pour les entités gold DATE ayant une correspondance différente dans l'OCR : 3.667
+   CER moyen gold/OCR pour les phrases contenant au moins une entité gold DATE ayant une correspondance différente dans l'OCR : 0.159
+   WER moyen gold/OCR pour les phrases contenant au moins une entité gold DATE ayant une correspondance différente dans l'OCR : 0.444
+1 entités gold DATE n'ont pas de correspondance dans l'OCR
+   CER moyen gold/OCR pour les phrases contenant au moins une entité gold DATE sans correspondance dans l'OCR : 0.081
+   WER moyen gold/OCR pour les phrases contenant au moins une entité gold DATE sans correspondance dans l'OCR : 0.239
+____________________________________________________________________________________________________
