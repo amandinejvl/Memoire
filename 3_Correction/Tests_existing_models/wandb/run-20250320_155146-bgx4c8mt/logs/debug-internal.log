@@ -1,0 +1,7 @@
+{"time":"2025-03-20T15:51:47.021957001+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/home/amandine/Documents/Master_TAL/M2_S2/Memoire/Code/3_Correction/Tests_existing_models/Thomas_2024/AJ/wandb/run-20250320_155146-bgx4c8mt/logs/debug-core.log"}
+{"time":"2025-03-20T15:51:47.132542285+01:00","level":"INFO","msg":"created new stream","id":"bgx4c8mt"}
+{"time":"2025-03-20T15:51:47.132608704+01:00","level":"INFO","msg":"stream: started","id":"bgx4c8mt"}
+{"time":"2025-03-20T15:51:47.132731415+01:00","level":"INFO","msg":"handler: started","stream_id":"bgx4c8mt"}
+{"time":"2025-03-20T15:51:47.133002539+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"bgx4c8mt"}
+{"time":"2025-03-20T15:51:47.133177352+01:00","level":"INFO","msg":"sender: started","stream_id":"bgx4c8mt"}
+{"time":"2025-03-20T15:51:47.448054452+01:00","level":"INFO","msg":"Starting system monitor"}

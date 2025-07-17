@@ -1,0 +1,39 @@
+{
+  "os": "Linux-6.8.0-55-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.11.9",
+  "startedAt": "2025-03-20T14:51:47.016197Z",
+  "args": [
+    "--model",
+    "bart-base",
+    "--config",
+    "../llms_post-ocr_correction/config.yaml",
+    "--data",
+    "../../../data/Tesseract/tesseract_train.csv"
+  ],
+  "program": "/home/amandine/Documents/Master_TAL/M2_S2/Memoire/Code/3_Correction/Tests_existing_models/Thomas_2024/AJ/train_bart.py",
+  "codePath": "Code/3_Correction/Tests_existing_models/Thomas_2024/AJ/train_bart.py",
+  "git": {
+    "remote": "git@github.com:AmandineJouvenel/Memoire.git",
+    "commit": "bf0e4a39bb2ee182f6667d83ae4554b255aecc6b"
+  },
+  "email": "amandine.poppy02@gmail.com",
+  "root": "/home/amandine/Documents/Master_TAL/M2_S2/Memoire/Code/3_Correction/Tests_existing_models/Thomas_2024/AJ",
+  "host": "amandine-Swift-SF314-43",
+  "executable": "/home/amandine/newenv/bin/python3",
+  "codePathLocal": "train_bart.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "502392610816",
+      "used": "348375318528"
+    }
+  },
+  "memory": {
+    "total": "16080457728"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  }
+}
